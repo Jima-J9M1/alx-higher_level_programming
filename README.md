@@ -1,6 +1,6 @@
 # High-Level Programming & Algorithm
 
-Module of **High-level programming** and **algorithm**, carried out during **FULL Stack Software Engineering studies** at **[ALX] (https://www.alxafrica.com/)**.
+Module of **High-level programming** and **algorithm**, carried out during **FULL Stack Software Engineering studies** at **[ALX](https://www.alxafrica.com/)**.
 
 ## Technologies
 
